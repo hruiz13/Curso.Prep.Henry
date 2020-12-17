@@ -1,0 +1,16 @@
+Objetos
+Es una variable que incluye una propiedad y un valor
+
+Propiedades
+Son los datos ingresados en una variable.
+
+Métodos
+Es una funcion dentro de un objeto que solo recibe ese nombre.
+
+Bucle for…in
+es para andar por un objeto con una variable como indice.
+asi recorremos todo el objeto viendo las claves y valores de cada uno.
+
+Notación de puntos vs notación de corchetes
+La notacion de puntos es la version resumida de notacion de corchetes, ya que podemos cambiar corchetes por un puntos
+seria lo mismo variable['propiedad'] que variable.propiedad
