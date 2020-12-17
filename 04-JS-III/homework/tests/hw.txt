@@ -1,0 +1,3 @@
+Arrays
+Son un arreglo de normalmente mas de 1 variable, strings, funciones, etc... a la cual se le pone un nombre.
+Se recorre con el nombre de la variable y se le indica que campo se quiere leer con "[#]".
