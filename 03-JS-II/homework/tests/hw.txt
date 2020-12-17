@@ -1,0 +1,13 @@
+`for`
+Lo utilizamos para realizar un bucle (algo repetitivo) durante un tiempo determinado que nosotros mismos podemos ocupar
+Requiere de una variable de inicio normalmente llamada i, un comparador para romper el ciclo, y una operacion que modifica la variable i en cada ciclo.
+
+
+`&&`
+Lo utilizamos para comparar 2 argumentos y estos deben cumplirse para obtener un valor verdadero
+
+`||`
+Lo utilizamos para comparar 2 argumentos, y si alguno de los 2 es verdadero, nos regresa un verdadero.
+ 
+`!`
+Lo utilizamos para negar un argumento, si es verdadero, lo convierte en falso, y viceversa.
