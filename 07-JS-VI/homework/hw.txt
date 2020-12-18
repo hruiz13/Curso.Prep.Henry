@@ -1,0 +1,3 @@
+funciones callback
+cuando se puede pasar una funcion dentro de otra funcion se le da el nombre de callback.
+la funcion de adentro nos puede dar una respuesta.
