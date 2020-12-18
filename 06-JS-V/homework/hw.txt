@@ -1,0 +1,8 @@
+prototype
+Es una funcion por "defecto" que se le pone a una variable.
+Es la ultima funcion que busca, por encima de esta puede nombrarse otra funcion con el mismo nombre.
+
+
+Constructors (de Clases)
+Son las propiedades que lleva un objeto.
+Se nombran generalmente y se le pueden dar a un objeto con el prefijo new.
